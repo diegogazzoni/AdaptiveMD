@@ -1,2 +1,2 @@
 # AdaptiveMD
-Python adaptive sampling strategies implementation for molecular/brownian dynamics simulations.
+Python package that implements adaptive sampling strategies to improve the quality of Markov State Models.
